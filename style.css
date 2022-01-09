@@ -1,0 +1,22 @@
+body{
+	font-family: serif;
+	}
+.satu,.dua{
+	font-size: 12px;
+}
+.satu{
+	background-color: #ff7b25;
+}
+.dua{
+	background-color: blue;
+	color: white;
+}
+.tiga{
+	font-family: monospace;
+	border: 1px solid #999;
+	font-size: 20px;
+}
+.empat{
+	background-color: #777;
+	font-weight: bold;
+}
